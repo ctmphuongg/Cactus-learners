@@ -9,8 +9,8 @@
                         
                         .nav-link {
                             color: white!important;
-                            padding: 10px 20px !important;
-                            font-size: 12px;
+                            padding: 10px 30px !important;
+                            font-size: 14px;
                             font-family: font-family 'Spectral', serif;
                         }
                         
@@ -46,7 +46,7 @@
                           }
                           .cactus-cover img {width:100%;}
                           .cactus-cover:hover {
-                            background-color: linear-gradient(rgba(4,9,30,0.7));
+                            background-color: linear-gradient(rgba(8, 30, 4, 0.7));
                           }
                           .quotes {
                             background: transparent;
@@ -156,5 +156,8 @@
                             margin: 40px auto;
                             overflow: auto;
                             text-align: justify;
+                          }
+                          .Dau_chan_so p {
+                              padding-top: 30px;
                           }
                         

@@ -7,8 +7,8 @@
 
 .nav-link {
     color: white!important;
-    padding: 10px 20px !important;
-    font-size: 12px;
+    padding: 10px 30px !important;
+    font-size: 14px;
     font-family: font-family 'Spectral', serif;
 }
 
@@ -51,38 +51,38 @@ body {
     margin-top: 20px;
   }
   
-  .beginning {
-    width: 750px;
-    margin: 0 auto;
+  .summary {
+    width: 800px;
+    margin: 20px auto;
   }
   
-  .beginning p {
-    font-family: "Spectral", serif;
-    text-align: justify;
-    margin: 0 5px;
-  }
-  .beginning li {
+  .summary li {
     font-family: "Spectral", serif;
   }
-  .beginning img {
+  .summary img {
     float: left;
     width: 270px;
     height: auto;
+    padding-right: 20px;
     margin: 15px 10px;
   }
-  .beginning p {
+  .summary p {
     text-align: justify;
     font-family: "Spectral", serif;
-    width: 450px;
+    width: 470px;
     float: left;
+    margin-left: 20px;
   }
-  .beginning a {
-    margin: 20px auto;
+  .summary a {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left:15px;
+    width:470px;
     font-size: 25px;
     color: #133C55;
     text-decoration: none;
   }
-  .beginning a:hover {
+  .summary a:hover {
     text-decoration: underline;
   }
   .subheading {
