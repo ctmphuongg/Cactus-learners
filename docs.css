@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Signika:wght@500&display=swap');
+.navbar-brand {
+    font-size: 30px;
+    color: white !important;
+    padding-left:5px;
+}
+
+.nav-link {
+    color: white!important;
+    padding: 10px 20px !important;
+    font-size: 12px;
+    font-family: font-family 'Spectral', serif;
+}
+
+.nav-link:hover {
+    border-bottom: solid;
+    border-width: 3px;
+}
+
+.navbar li a:hover {
+    background-color: rgb(33, 83, 52, 0.7) !important;
+}
+
+.navbar {
+    display: flex;
+    background-color: rgb(33, 83, 52)!important;
+}
+body {
+    background: #b3cbb9;
+    font-size: 18px;
+  }
+  h1 {
+    color: #254441;
+    font-size: 50px;
+  }
+  .body {
+    background: seashell;
+    width: 1000px;
+    height: auto;
+    padding: 40px 10px 40px 15px; /*top right bottom left*/
+    margin: 0 auto;
+  }
+  .body h2 {
+    padding: 5px 600px 0px 100px;
+  }
+  .section1 {
+    overflow: auto;
+    padding-bottom: 15px;
+    border-bottom: 1px dashed gray;
+    text-align: justify;
+    margin-top: 20px;
+  }
+  
+  .beginning {
+    width: 750px;
+    margin: 0 auto;
+  }
+  
+  .beginning p {
+    font-family: "Spectral", serif;
+    text-align: justify;
+    margin: 0 5px;
+  }
+  .beginning li {
+    font-family: "Spectral", serif;
+  }
+  .beginning img {
+    float: left;
+    width: 270px;
+    height: auto;
+    margin: 15px 10px;
+  }
+  .beginning p {
+    text-align: justify;
+    font-family: "Spectral", serif;
+    width: 450px;
+    float: left;
+  }
+  .beginning a {
+    margin: 20px auto;
+    font-size: 25px;
+    color: #133C55;
+    text-decoration: none;
+  }
+  .beginning a:hover {
+    text-decoration: underline;
+  }
+  .subheading {
+    font-size: 150%;
+  }
+  h2 {
+    color: #133C55;
+    font-size: 40px;
+  }
+  
