@@ -36,18 +36,10 @@
                         body {
                             background-color: rgb(229, 241, 234);
                         }
-                        .cactus-cover {
-                            flex-basis:32%;
+                        .carousel-item {
                             width:100%;
-                            height:auto;
-                            position:relative;
-                            margin:0;
-                            overflow:hidden;
-                          }
-                          .cactus-cover img {width:100%;}
-                          .cactus-cover:hover {
-                            background-color: linear-gradient(rgba(8, 30, 4, 0.7));
-                          }
+                        }
+
                           .quotes {
                             background: transparent;
                             height:100%;
@@ -79,7 +71,7 @@
                           }
                           
                           body {
-                            background: #b3cbb9;
+                            background: #e7f3ea;
                             font-size: 18px;
                             margin: 0;
                           }
@@ -88,7 +80,6 @@
                             font-size: 40px;
                           }
                           .section1 {
-                            background: #EAE0CC;
                             width: 100%;
                             height: auto;
                             margin: 0;
@@ -98,28 +89,19 @@
                             font-size: 35px;
                             margin: 15px auto 7px auto;
                           }
-                          
-                          .beginning {
-                            width: 750px;
-                            margin: 0 auto;
-                            padding: 40px 8px 40px 8px; /*top right bottom left*/
-                          }
-                          .beginning img {
-                            float: left;
-                            width: 250px;
-                            height: 150px;
-                            margin: 70px 10px;
-                          }
+                          hr {
+                            border-top: 2px solid rgba(62, 44, 100, 0.6);
+                            width: 70%;
+                            margin-bottom: 2rem;
+                            margin-left: auto;
+                            margin-right: auto;
+                        }
                           
                           .content-wrap p {
                             font-family: "Spectral", serif;
                           }
                           .content-cactus {
-                            text-align: justify;
-                            width: 450px;
-                            float: left;
-                            padding-bottom:25px;
-                            padding-left:20px;
+                              padding: 20px 200px;
                           }
                           
                           .content-cactus p {
@@ -135,7 +117,6 @@
                           }
 
                           .section2 {
-                            background: #ddf1ee;
                             width: 100%;
                             height: auto;
                             margin: 0 auto;
@@ -150,14 +131,19 @@
                           }
                           .Dau_chan_so {
                             background: seashell;
-                            width: 1000px;
-                            height: auto;
-                            padding: 40px 10px 40px 15px; /*top right bottom left*/
-                            margin: 40px auto;
-                            overflow: auto;
+                            width:80%;
+                            margin: 200px auto;
                             text-align: justify;
+                          }
+                          .Dau_chan_so .text {
+                              padding: 90px 100px;
                           }
                           .Dau_chan_so p {
                               padding-top: 30px;
+                          }
+                          .body-docs {
+                              background-image: url(./images/TECH.png);
+                              background-repeat: no-repeat;
+                              background-size: 100% 400px;
                           }
                         
