@@ -2,7 +2,7 @@
 .navbar-brand {
     font-size: 30px;
     color: white !important;
-    padding-left:5px;
+    padding-left: 5px;
 }
 
 .nav-link {
@@ -25,71 +25,101 @@
     display: flex;
     background-color: rgb(33, 83, 52)!important;
 }
+
 body {
-    background: #b3cbb9;
+    background: #ddebe0;
     font-size: 18px;
-  }
-  h1 {
+}
+
+h1 {
     color: #254441;
     font-size: 50px;
-  }
-  .body {
-    background: seashell;
-    max-width: 1000px;
-    height: auto;
-    padding: 40px 10px 40px 15px; /*top right bottom left*/
-    margin: 0 auto;
-  }
-  .body h2 {
-    padding: 5px 600px 0px 100px;
-  }
-  .section1 {
+}
+
+
+/* .section1 {
     overflow: auto;
     padding-bottom: 15px;
     border-bottom: 1px dashed gray;
     text-align: justify;
     margin-top: 20px;
-  }
-  
-  .summary {
-    max-width: 800px;
+} */
+
+
+/* .summary {
+    max-width: 60%;
     margin: 20px auto;
-  }
-  
-  .summary li {
+}
+
+.summary li {
     font-family: "Spectral", serif;
-  }
-  .summary img {
+}
+
+.summary img {
     float: left;
     max-width: 270px;
     height: auto;
     padding-right: 20px;
     margin: 15px 10px;
-  }
-  .summary p {
+}
+
+.summary p {
     text-align: justify;
     font-family: "Spectral", serif;
     max-width: 470px;
     float: left;
     margin-left: 20px;
-  }
-  .summary a {
+}
+
+.summary a {
     margin-top: 20px;
     margin-bottom: 20px;
-    margin-left:15px;
-    max-width:470px;
+    margin-left: 15px;
+    max-width: 470px;
     font-size: 25px;
     color: #133C55;
     text-decoration: none;
-  }
-  .summary a:hover {
+}
+
+.summary a:hover {
     text-decoration: underline;
-  }
-  .subheading {
+} */
+
+.body-docs {
+    background-image: url(./images/TECH.png);
+    background-repeat: no-repeat;
+    background-size: 100% 400px;
+}
+
+.card a {
+    font-size: 25px;
+    color: #133C55;
+    text-decoration: none;
+}
+
+.card a:hover {
+    text-decoration: underline;
+}
+
+.card {
+    margin: auto 15%;
+}
+
+#card {
+    padding-top: 24%;
+}
+
+.card-image {
+    margin-top: 1%;
+    margin-bottom: 1%;
+    padding-left: 2%;
+}
+
+.subheading {
     font-size: 150%;
-  }
-  h2 {
+}
+
+h2 {
     color: #133C55;
     font-size: 40px;
-  }
-  
+}

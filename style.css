@@ -31,7 +31,6 @@
                             margin: 10px;
                             font-size: 12px;
                         }
-                        /*  */
                         
                         .carousel-item {
                             width: 100%;
@@ -46,28 +45,6 @@
                             left: 0;
                             transition: 0.5s;
                         }
-                        /* .quotes:hover {
-                            background: rgba(4, 9, 30, 0.7);
-                        }
-                        
-                        .quotes h3 {
-                            width: 100%;
-                            font-weight: 500;
-                            color: #fff;
-                            font-size: 40px;
-                            bottom: 0;
-                            left: 50%;
-                            transform: translateX(-40%);
-                            position: absolute;
-                            opacity: 0;
-                            transition: 0.5s;
-                        }
-                        
-                        .quotes:hover h3 {
-                            bottom: 40%;
-                            opacity: 1;
-                        }
-                         */
                         
                         body {
                             background: #e7f3ea;
