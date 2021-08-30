@@ -1,10 +1,9 @@
-                        
                         @import url('https://fonts.googleapis.com/css2?family=Signika:wght@500&display=swap');
                         @import url('https://fonts.googleapis.com/css2?family=Spectral:wght@300&display=swap');
                         .navbar-brand {
                             font-size: 30px;
                             color: white !important;
-                            padding-left:5px;
+                            padding-left: 5px;
                         }
                         
                         .nav-link {
@@ -32,118 +31,127 @@
                             margin: 10px;
                             font-size: 12px;
                         }
-                      
-                        body {
-                            background-color: rgb(229, 241, 234);
-                        }
+                        /*  */
+                        
                         .carousel-item {
-                            width:100%;
+                            width: 100%;
                         }
-
-                          .quotes {
+                        
+                        .quotes {
                             background: transparent;
-                            height:100%;
-                            width:100%;
-                            position:absolute;
-                            top:0;
-                            left:0;
-                            transition:0.5s;
-                          }
-                          .quotes:hover {
-                            background:rgba(4,9,30,0.7);
-                          }
-                          
-                          .quotes h3 {
-                            width:100%;
-                            font-weight:500;
-                            color:#fff;
-                            font-size:40px;
-                            bottom:0;
-                            left:50%;
+                            height: 100%;
+                            width: 100%;
+                            position: absolute;
+                            top: 0;
+                            left: 0;
+                            transition: 0.5s;
+                        }
+                        /* .quotes:hover {
+                            background: rgba(4, 9, 30, 0.7);
+                        }
+                        
+                        .quotes h3 {
+                            width: 100%;
+                            font-weight: 500;
+                            color: #fff;
+                            font-size: 40px;
+                            bottom: 0;
+                            left: 50%;
                             transform: translateX(-40%);
-                            position:absolute;
-                            opacity:0;
-                            transition:0.5s;
-                          }
-                          .quotes:hover h3 {
-                            bottom:40%;
-                            opacity:1;
-                          }
-                          
-                          body {
+                            position: absolute;
+                            opacity: 0;
+                            transition: 0.5s;
+                        }
+                        
+                        .quotes:hover h3 {
+                            bottom: 40%;
+                            opacity: 1;
+                        }
+                         */
+                        
+                        body {
                             background: #e7f3ea;
                             font-size: 18px;
                             margin: 0;
-                          }
-                          h1 {
+                        }
+                        
+                        h1 {
                             color: #254441;
                             font-size: 40px;
-                          }
-                          .section1 {
+                        }
+                        
+                        .section1 {
                             width: 100%;
                             height: auto;
                             margin: 0;
                             overflow: auto;
-                          }
-                          .section1 h2 {
+                        }
+                        
+                        .section1 h2 {
                             font-size: 35px;
                             margin: 15px auto 7px auto;
-                          }
-                          hr {
+                        }
+                        
+                        hr {
                             border-top: 2px solid rgba(62, 44, 100, 0.6);
                             width: 70%;
                             margin-bottom: 2rem;
                             margin-left: auto;
                             margin-right: auto;
                         }
-                          
-                          .content-wrap p {
+                        
+                        .content-wrap p {
                             font-family: "Spectral", serif;
-                          }
-                          .content-cactus {
-                              padding: 20px 200px;
-                          }
-                          
-                          .content-cactus p {
+                        }
+                        
+                        .content-cactus {
+                            padding: 20px 200px;
+                        }
+                        
+                        .content-cactus p {
                             font-family: "Spectral", serif;
-                          }
-
-                          .intro-item {
+                        }
+                        
+                        .intro-item {
                             padding: 40px 30px 40px 30px !important;
                             text-align: justify !important;
-                          }
-                          .intro-item p {
-                              padding-left:10px;
-                          }
-
-                          .section2 {
+                        }
+                        
+                        .intro-item p {
+                            padding-left: 10px;
+                        }
+                        
+                        .section2 {
                             width: 100%;
                             height: auto;
                             margin: 0 auto;
                             overflow: auto;
-                          }
-                          
-                          .section2 h2 {
+                        }
+                        
+                        .section2 h2 {
                             text-align: center;
                             font-size: 20px;
                             color: #133C55;
                             font-size: 30px;
-                          }
-                          .Dau_chan_so {
+                        }
+                        
+                        .Dau_chan_so {
                             background: seashell;
-                            width:80%;
+                            width: 80%;
                             margin: 200px auto;
                             text-align: justify;
-                          }
-                          .Dau_chan_so .text {
-                              padding: 90px 100px;
-                          }
-                          .Dau_chan_so p {
-                              padding-top: 30px;
-                          }
-                          .body-docs {
-                              background-image: url(./images/TECH.png);
-                              background-repeat: no-repeat;
-                              background-size: 100% 400px;
-                          }
+                        }
                         
+                        .Dau_chan_so .text {
+                            padding: 90px 100px;
+                        }
+                        
+                        .Dau_chan_so p {
+                            padding-top: 30px;
+                        }
+                        
+                        .body-docs {
+                            background-image: url(./images/TECH.png);
+                            background-repeat: no-repeat;
+                            background-size: 100% 400px;
+                        }
