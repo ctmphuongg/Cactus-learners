@@ -103,6 +103,7 @@ h1 {
 
 .card {
     margin: auto 15%;
+    padding: 2%;
 }
 
 #card {
@@ -110,9 +111,8 @@ h1 {
 }
 
 .card-image {
-    margin-top: 1%;
-    margin-bottom: 1%;
-    padding-left: 2%;
+    margin: 2% auto;
+    padding: auto 2%;
 }
 
 .subheading {
