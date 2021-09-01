@@ -1,5 +1,5 @@
                             @import url('https://fonts.googleapis.com/css2?family=Signika:wght@500&display=swap');
-                            @import url('https://fonts.googleapis.com/css2?family=Spectral:wght@300&display=swap');
+                            @import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Spectral&display=swap');
                             .navbar-brand {
                                 font-size: 30px;
                                 color: white !important;
@@ -74,20 +74,15 @@
                                 border-radius: 1000px;
                             }
                             
-                            .content-wrap p {
-                                font-family: "Spectral", serif;
-                            }
-                            
-                            .content-cactus {
-                                padding: 20px 200px;
-                            }
-                            
-                            .content-cactus p {
-                                font-family: "Spectral", serif;
+                            #title {
+                                font-size: 60px;
+                                padding-bottom: 3%;
+                                font-family: 'Alfa Slab One', cursive;
+                                color: #254441
                             }
                             
                             .intro-item {
-                                padding: 40px 30px 40px 30px !important;
+                                padding: 2% !important;
                                 text-align: justify !important;
                             }
                             
