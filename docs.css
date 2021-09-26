@@ -85,13 +85,6 @@ h1 {
     text-decoration: underline;
 } */
 
-.body-docs {
-    background-image: url(./images/TECH.png);
-    background-repeat: no-repeat;
-    background-size: 100% 400px;
-    object-fit: cover;
-}
-
 .card a {
     font-size: 25px;
     color: #133C55;
