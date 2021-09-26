@@ -9,7 +9,7 @@
     color: white!important;
     padding: 10px 30px !important;
     font-size: 14px;
-    font-family: font-family 'Spectral', serif;
+    font-family: 'Spectral', serif;
 }
 
 .nav-link:hover {
@@ -89,6 +89,7 @@ h1 {
     background-image: url(./images/TECH.png);
     background-repeat: no-repeat;
     background-size: 100% 400px;
+    object-fit: cover;
 }
 
 .card a {
