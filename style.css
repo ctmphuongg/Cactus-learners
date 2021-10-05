@@ -124,3 +124,8 @@
                                 background-repeat: no-repeat;
                                 background-size: 100% 400px;
                             }
+                            
+                            #img_illustration {
+                                max-width: 100%;
+                                padding-top: 2rem;
+                            }
