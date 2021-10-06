@@ -125,6 +125,10 @@
                                 background-size: 100% 400px;
                             }
                             
+                            .subheading {
+                                margin-top: 3rem;
+                            }
+                            
                             #img_illustration {
                                 max-width: 100%;
                                 padding-top: 2rem;
